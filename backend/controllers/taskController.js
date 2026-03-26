@@ -1,4 +1,4 @@
-import {Task} from "../models/Task.js";
+import {Task} from "../models/task.js";
 import asyncHandler from "../middleware/asyncHandler.js";
 import ErrorHandler from "../utils/errorHandler.js";
 
